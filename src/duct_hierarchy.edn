@@ -1,0 +1,1 @@
+{:duct.module/overwrite-core-handler-middleware [:duct/module]}
